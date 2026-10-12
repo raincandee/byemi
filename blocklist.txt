@@ -343,6 +343,7 @@
 127.0.0.1 bashkortostan.shop.mi.com
 127.0.0.1 bassnectar.shop.mi.com
 127.0.0.1 bbs.xiaomi.com
+127.0.0.1 bbs2.appmifile.com
 127.0.0.1 bdl0.market.xiaomi.com
 127.0.0.1 be8.xiaomi.com
 127.0.0.1 beehive.miui.com
@@ -743,6 +744,7 @@
 127.0.0.1 docker.d.xiaomi.net
 127.0.0.1 docs.api.xiaomi.com
 127.0.0.1 douyin.api.mi.com
+127.0.0.1 download.appmifile.com
 127.0.0.1 download.pt.xiaomi.com
 127.0.0.1 driveapi.micloud.xiaomi.net
 127.0.0.1 drivebytruckers.shop.mi.com
@@ -1079,6 +1081,7 @@
 127.0.0.1 global.account.xiaomi.com
 127.0.0.1 global.api.huangye.miui.com
 127.0.0.1 global.app.mi.com
+127.0.0.1 global.appmifile.com
 127.0.0.1 global.b.mi.com
 127.0.0.1 global.control.preload.xiaomi.com
 127.0.0.1 global.dev.b.mi.com
@@ -1199,6 +1202,8 @@
 127.0.0.1 i.mi.com
 127.0.0.1 i.sg.sec.miui.com
 127.0.0.1 i.xiaomi.com
+127.0.0.1 i01.appmifile.com
+127.0.0.1 i02.appmifile.com
 127.0.0.1 i18n.mae.xiaomi.com
 127.0.0.1 i2-idm.api.io.mi.com
 127.0.0.1 i2-miot-camera-cdn.io.mi.com
@@ -2021,9 +2026,12 @@
 127.0.0.1 s.mi.com
 127.0.0.1 s.miui.com
 127.0.0.1 s008.i.mi.com
+127.0.0.1 s01.appmifile.com
 127.0.0.1 s01.gnr.mi-img.com
 127.0.0.1 s010.i.mi.com
 127.0.0.1 s010.iss.xiaomi.com
+127.0.0.1 s02.appmifile.com
+127.0.0.1 s03.appmifile.com
 127.0.0.1 s1.g.mi.com
 127.0.0.1 s1.mi-img.com
 127.0.0.1 s1.mi.com
@@ -2399,6 +2407,7 @@
 127.0.0.1 twohands.shop.mi.com
 127.0.0.1 txshare.api.xiaomi.com
 127.0.0.1 tz.sec.xiaomi.com
+127.0.0.1 u01.appmifile.com
 127.0.0.1 uaa.app-xae.xiaomi.com
 127.0.0.1 uae.shop.mi.com
 127.0.0.1 uat.shop.mi.com
