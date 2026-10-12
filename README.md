@@ -6,7 +6,7 @@ A blocklist for [AdAway](https://github.com/AdAway/AdAway) that blocks all known
 
 1. Open **AdAway**.
 2. Go to the **Hosts sources** menu (the button that tells you if your sources are updated).
-3. Press the **+** button in the bottom-right corner.
+3. Press the red **+** button in the bottom right corner.
 4. Set **List format** to `Block`.
 5. Set **Type** to `File`.
 6. Choose any label you want.
