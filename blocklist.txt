@@ -127,6 +127,7 @@
 127.0.0.1 ali.xmssdn.micloud.mi.com
 127.0.0.1 alita.pc.mi.com
 127.0.0.1 alpha.shop.mi.com
+127.0.0.1 alsgp0.fds.api.xiaomi.com
 127.0.0.1 america.shop.mi.com
 127.0.0.1 amoslee.shop.mi.com
 127.0.0.1 ams.aznl.pubproxy02.lb.mi.com
@@ -1727,6 +1728,7 @@
 127.0.0.1 mp.be.mi.com
 127.0.0.1 mp.mi.com
 127.0.0.1 mp.xiaomi.cn
+127.0.0.1 mqs-log.miui.com
 127.0.0.1 mqtt-charging.api.xiaomi.com
 127.0.0.1 mqtt.iccc.xiaomiev.com
 127.0.0.1 mqtt.mobile.iccc.xiaomiev.com
