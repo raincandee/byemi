@@ -131,6 +131,8 @@
 127.0.0.1 alsgp0.fds.api.xiaomi.com
 127.0.0.1 america.shop.mi.com
 127.0.0.1 amoslee.shop.mi.com
+127.0.0.1 ams-api.buy.mi.com
+127.0.0.1 ams-events.c.mi.com
 127.0.0.1 ams-go.buy.mi.com
 127.0.0.1 ams-push.buy.mi.com
 127.0.0.1 ams.aznl.pubproxy02.lb.mi.com
@@ -486,6 +488,7 @@
 127.0.0.1 cdn-howl.api.intl.miui.com
 127.0.0.1 cdn-img-fds.market.xiaomi.com
 127.0.0.1 cdn-img.car.miui.com
+127.0.0.1 cdn-new.c.mi.com
 127.0.0.1 cdn-plugins.browser.miui.com
 127.0.0.1 cdn-sgp-ortb-api.ad.intl.xiaomi.com
 127.0.0.1 cdn-video.edu.mioffice.cn
@@ -836,6 +839,7 @@
 127.0.0.1 euac.account.xiaomi.com
 127.0.0.1 event.c.mi.com
 127.0.0.1 event.mi.com
+127.0.0.1 events.c.mi.com
 127.0.0.1 events.miui.com
 127.0.0.1 example.mioffice.cn
 127.0.0.1 exapi.10046.mi.com
