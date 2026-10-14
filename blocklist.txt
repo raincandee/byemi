@@ -2149,6 +2149,7 @@
 127.0.0.1 security.browser.intl.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 security.xunlei.com
+127.0.0.1 sensorsdata.10046.xiaomimobile.com
 127.0.0.1 sentry.pay.xiaomi.com
 127.0.0.1 sentry.sec.miui.com
 127.0.0.1 service.10046.mi.com
@@ -2687,6 +2688,7 @@
 127.0.0.1 xiangshan.n.xiaomi.com
 127.0.0.1 xiaoai.mi.com
 127.0.0.1 xiaoji.xunlei.com
+127.0.0.1 xiaomi.santiyun.com
 127.0.0.1 xiazai.mi.com
 127.0.0.1 xiazai.xiaomi.com
 127.0.0.1 xl11.xunlei.com
