@@ -131,6 +131,8 @@
 127.0.0.1 alsgp0.fds.api.xiaomi.com
 127.0.0.1 america.shop.mi.com
 127.0.0.1 amoslee.shop.mi.com
+127.0.0.1 ams-go.buy.mi.com
+127.0.0.1 ams-push.buy.mi.com
 127.0.0.1 ams.aznl.pubproxy02.lb.mi.com
 127.0.0.1 ams.event.mi.com
 127.0.0.1 ams.maf.be.xiaomi.com
@@ -1244,6 +1246,9 @@
 127.0.0.1 i.xunlei.com
 127.0.0.1 i01.appmifile.com
 127.0.0.1 i02.appmifile.com
+127.0.0.1 i03.appmifile.com
+127.0.0.1 i04.appmifile.com
+127.0.0.1 i05.appmifile.com
 127.0.0.1 i18n.mae.xiaomi.com
 127.0.0.1 i2-idm.api.io.mi.com
 127.0.0.1 i2-miot-camera-cdn.io.mi.com
@@ -2107,6 +2112,8 @@
 127.0.0.1 s010.iss.xiaomi.com
 127.0.0.1 s02.appmifile.com
 127.0.0.1 s03.appmifile.com
+127.0.0.1 s04.appmifile.com
+127.0.0.1 s05.appmifile.com
 127.0.0.1 s1.g.mi.com
 127.0.0.1 s1.mi-img.com
 127.0.0.1 s1.mi.com
@@ -2163,6 +2170,7 @@
 127.0.0.1 sf0.market.xiaomi.com
 127.0.0.1 sf1-lark-tos.f.mioffice.cn
 127.0.0.1 sg-01.aws.avlyun.com
+127.0.0.1 sg-atlas.nr.mi.com
 127.0.0.1 sg-idm.api.io.mi.com
 127.0.0.1 sg-intl.customer.mi.com
 127.0.0.1 sg-intl.dms.mi.com
@@ -2501,6 +2509,10 @@
 127.0.0.1 txshare.api.xiaomi.com
 127.0.0.1 tz.sec.xiaomi.com
 127.0.0.1 u01.appmifile.com
+127.0.0.1 u02.appmifile.com
+127.0.0.1 u03.appmifile.com
+127.0.0.1 u04.appmifile.com
+127.0.0.1 u05.appmifile.com
 127.0.0.1 uaa.app-xae.xiaomi.com
 127.0.0.1 uae.shop.mi.com
 127.0.0.1 uat.shop.mi.com
