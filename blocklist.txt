@@ -1,6 +1,7 @@
 127.0.0.1 10.mi.com
 127.0.0.1 10.xiaomi.com
 127.0.0.1 10046.mi.com
+127.0.0.1 10046.xiaomimobile.com
 127.0.0.1 10131.shop.mi.com
 127.0.0.1 1177.shop.mi.com
 127.0.0.1 13553.shop.mi.com
@@ -1647,6 +1648,7 @@
 127.0.0.1 migcreport.g.mi.com
 127.0.0.1 migrafana.men.mi.com
 127.0.0.1 mihall.10046.mi.com
+127.0.0.1 mihall.10046.xiaomimobile.com
 127.0.0.1 miiot.men.mi.com
 127.0.0.1 miiotm.men.mi.com
 127.0.0.1 mij.preview.n.xiaomi.net
