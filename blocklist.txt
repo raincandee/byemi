@@ -1926,6 +1926,7 @@
 127.0.0.1 pre-admap-add.eu.evad.mi.com
 127.0.0.1 pre-bss.tv.mi.com
 127.0.0.1 pre-mqtt-charging.api.xiaomi.com
+127.0.0.1 predownload-admin.g.mi.com
 127.0.0.1 predownload-peak.game.xiaomi.com
 127.0.0.1 predownload.game.xiaomi.com
 127.0.0.1 preload.xiaomi.com
